@@ -6,6 +6,9 @@ const html = document.querySelector('html')
 
 alert("вы поддтверждаете действия на этом сайте?");
 
+body.style.background = "linear-gradient(to bottom, rgb(255, 0, 0), rgb(255, 166, 0), rgb(255, 255, 0), rgb(3, 115, 3), rgb(0, 0, 255), rgb(76, 1, 129), rgb(242, 134, 242))";
+html.style.background = "linear-gradient(to bottom, rgb(255, 0, 0), rgb(255, 166, 0), rgb(255, 255, 0), rgb(3, 115, 3), rgb(0, 0, 255), rgb(76, 1, 129), rgb(242, 134, 242))";
+
 for (const i of gay) {
     i.style.color = "rgb(0, 255, 255)";
 }
