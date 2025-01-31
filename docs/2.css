@@ -1,0 +1,15 @@
+.gay{
+    color: rgba(0, 255, 255, 0);
+    font-size: 200%;
+}
+#gaybutton{
+    position: absolute;
+}
+
+html,body{
+    height: 100%;
+    margin:0;
+    background-image: linear-gradient(to bottom, rgb(255, 0, 0), rgb(255, 166, 0), rgb(255, 255, 0), rgb(3, 115, 3), rgb(0, 0, 255), rgb(76, 1, 129), rgb(242, 134, 242));
+    
+
+}
